@@ -1,11 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanpacker/ryanpacker/main/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanpacker/ryanpacker/main/header-light.svg">
-  <img alt="Ryan Packer" src="https://raw.githubusercontent.com/ryanpacker/ryanpacker/main/header-light.svg" width="100%">
-</picture>
-
-<br>
-
 ## What am I working on?
 
 | Project | Description |
